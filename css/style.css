@@ -38,6 +38,7 @@ div.row{
     color: rgb(255, 255, 255);
 }
 
+
 .producto1 {
     background-image: url(../imagenes/Producto1.png);
     background-repeat: no-repeat;
@@ -107,6 +108,9 @@ div.row{
     border: solid 3px;
 }
 
+.colRedes {
+    filter: invert(0.55) sepia(0.9) ; 
+}
 
 .altura {
     height: 450px;
