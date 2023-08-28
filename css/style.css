@@ -1,0 +1,129 @@
+.fondoEncabezado {
+    background-image: url(/imagenes/imagenCentral.png);
+    background-repeat: no-repeat;
+    background-size: cover ;
+    background-position: center;
+    background-color: rgba(0, 0, 0, 0.5);
+    height: 70vh;
+    display: flex;
+    color: white;
+}
+
+.textoEncabezado {
+    padding: 50px;
+    text-align: center;
+    
+}
+
+.boton1 {
+    border-radius: 50px;
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+div.row{
+    margin-right: 0px;
+  }
+
+  div.container-fluid{
+    padding-right: 0px;
+  }
+
+.divisores{
+    background-color: rgb(88, 88, 88);
+    color: rgb(230, 170, 81);
+}
+
+.divisores2{
+    background-color: rgb(88, 88, 88);
+    color: rgb(255, 255, 255);
+}
+
+.producto1 {
+    background-image: url(/imagenes/Producto1.png);
+    background-repeat: no-repeat;
+    background-size:cover ;
+    background-position: center;
+    background-color: rgba(0, 0, 0, 0.5);
+    height:70vh; 
+    color: white;
+}
+
+.producto2 {
+    background-image: url(/imagenes/Producto2.png);
+    background-repeat: no-repeat;
+    background-size:cover ;
+    background-position: center;
+    background-color: rgba(0, 0, 0, 0.5);
+    height:70vh; 
+    color: white;
+}
+.producto3 {
+    background-image: url(/imagenes/Producto3.png);
+    background-repeat: no-repeat;
+    background-size:cover ;
+    background-position: center;
+    background-color: rgba(0, 0, 0, 0.5);
+    height:70vh; 
+    color: white;
+}
+
+.producto4 {
+    background-image: url(/imagenes/Producto4b.png);
+    background-repeat: no-repeat;
+    background-size:cover ;
+    background-position: center;
+    height:70vh; 
+    color: white;
+}
+
+.textosPresentacion {
+    background-color: black;
+    color: rgb(233, 212, 183);
+    padding: 50px;
+    text-align: center;
+}
+
+.textosPresentacion1 {
+    color: white;
+    padding: 50px;
+    text-align: center;
+}
+
+.textosPresentacion3 {
+    color: rgb(105, 67, 13);
+    padding: 50px;
+    text-align: center;
+}
+
+.colorBtn {
+    color: rgb(233, 212, 183);
+    border-radius: 5px;
+    border: solid 0.8px;
+}
+
+.colorBtn2 {
+    color: rgb(105, 67, 13);
+    border-radius: 5px;
+    border: solid 3px;
+}
+
+
+.altura {
+    height: 450px;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: center;
+    padding-right: 20px;
+
+}
+
+.imagenAreaMail {
+    background-image: url(/imagenes/Producto3.png);
+    background-repeat: no-repeat;
+    background-size:cover ;
+    background-position: center;
+    
+    color: white;
+}
