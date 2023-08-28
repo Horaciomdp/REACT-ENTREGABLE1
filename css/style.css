@@ -1,5 +1,5 @@
 .fondoEncabezado {
-    background-image: url(/imagenes/imagenCentral.png);
+    background-image: url(./imagenes/imagenCentral.png);
     background-repeat: no-repeat;
     background-size: cover ;
     background-position: center;
@@ -39,7 +39,7 @@ div.row{
 }
 
 .producto1 {
-    background-image: url(/imagenes/Producto1.png);
+    background-image: url(./imagenes/Producto1.png);
     background-repeat: no-repeat;
     background-size:cover ;
     background-position: center;
