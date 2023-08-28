@@ -49,7 +49,7 @@ div.row{
 }
 
 .producto2 {
-    background-image: url(/imagenes/Producto2.png);
+    background-image: url(../imagenes/Producto2.png);
     background-repeat: no-repeat;
     background-size:cover ;
     background-position: center;
@@ -58,7 +58,7 @@ div.row{
     color: white;
 }
 .producto3 {
-    background-image: url(/imagenes/Producto3.png);
+    background-image: url(../imagenes/Producto3.png);
     background-repeat: no-repeat;
     background-size:cover ;
     background-position: center;
@@ -68,7 +68,7 @@ div.row{
 }
 
 .producto4 {
-    background-image: url(/imagenes/Producto4b.png);
+    background-image: url(../imagenes/Producto4b.png);
     background-repeat: no-repeat;
     background-size:cover ;
     background-position: center;
@@ -120,7 +120,7 @@ div.row{
 }
 
 .imagenAreaMail {
-    background-image: url(/imagenes/Producto3.png);
+    background-image: url(../imagenes/Producto3.png);
     background-repeat: no-repeat;
     background-size:cover ;
     background-position: center;
