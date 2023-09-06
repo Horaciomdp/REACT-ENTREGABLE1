@@ -1,3 +1,7 @@
+.row {
+    margin:0
+}
+
 .fondoEncabezado {
     background-image: url(../imagenes/imagenCentral.png);
     background-repeat: no-repeat;
